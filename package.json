@@ -18,10 +18,12 @@
   },
   "homepage": "https://github.com/yvadher/Train-Simmulator#readme",
   "dependencies": {
-    "p5": "^0.5.16",
-    "parcel-bundler": "^1.4.1"
+    "bootstrap": "^4.0.0-beta.3",
+    "jquery": "^3.2.1",
+    "p5": "^0.5.16"
   },
   "devDependencies": {
-    "node-sass": "^4.7.2"
+    "node-sass": "^4.7.2",
+    "parcel-bundler": "^1.4.1"
   }
 }
